@@ -19,4 +19,4 @@ sudo pip install pandas
 sudo apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
 ```
 ### Credits
-All credits go to [Sentdex](https://pythonprogramming.net/), for his very helpful educational tutorials
+Credits to [Sentdex](https://pythonprogramming.net/), for his very helpful educational tutorials
